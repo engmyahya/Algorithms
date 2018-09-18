@@ -16,6 +16,7 @@ Used specifications :
           
           4- Restart you machine. 
           
-          5- Open the directory where you pulled the specific algorithm's implementation from my repository and open it with VSCode
+          5- Open the directory where you pulled the specific algorithm's implementation from my repository 
+          and open it with VSCode
           
           6- run dotnet build then dotnet run.
