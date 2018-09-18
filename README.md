@@ -1,8 +1,6 @@
 # Algorithms
 Code implementation for algorithms and Data structure using C# and TypeScript.
 
-Used specifications : 
-
 1- For C# implementations :
 
        To enable C# Apps on VSCode, I did the following : 
